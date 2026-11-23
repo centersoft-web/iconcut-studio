@@ -533,7 +533,9 @@
  </script>
 <script>
 if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register("./sw.js");
+  navigator.serviceWorker.register("/iconcut-studio/sw.js", {
+    scope: "/iconcut-studio/"
+  });
 }
 </script>
 </body>
