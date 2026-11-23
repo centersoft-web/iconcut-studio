@@ -2,7 +2,7 @@
   "id": "/iconcut-studio/",
   "name": "Studio ICO - Conversor de imagens",
   "short_name": "Studio ICO",
-  "description": "Converta imagens para ICO diretamente no navegador, com vários tamanhos e opção de transparência.",
+  "description": "Conversor de imagens para o formato ICO que funciona diretamente no navegador. O aplicativo permite converter uma ou várias imagens, criar ícones com diversos tamanhos no mesmo arquivo e, opcionalmente, remover uma cor para produzir transparência.",
   "lang": "pt-BR",
   "start_url": "/iconcut-studio/",
   "scope": "/iconcut-studio/",
