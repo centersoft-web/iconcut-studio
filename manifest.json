@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Studio ICO - Conversor de imagens",
+  "short_name": "Studio ICO",
+  "description": "Converta imagens para arquivos ICO diretamente no navegador, com vários tamanhos e opções de transparência.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#ffffff",
+  "background_color": "#0f172a",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
